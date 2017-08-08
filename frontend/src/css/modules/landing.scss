@@ -377,3 +377,12 @@ a.view-more {
         width: 100%;
     }
 }
+
+.wraptocenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.wraptocenter * {
+  vertical-align: middle;
+}
